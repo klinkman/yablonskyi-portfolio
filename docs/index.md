@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Вітаю у моєму портфоліо
+Вітаю у моєму професійному просторі! Тут зібрані ключові проєкти, які відображають мій досвід, навички та підхід до роботи. Я вірю, що якісний результат будується на увазі до деталей та постійному розвитку, тому в кожну задачу я вкладаю максимум зусиль.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Запрошую ознайомитися з моїм доробком. Сподіваюся, ці приклади допоможуть вам краще зрозуміти мій стиль роботи та побачити потенціал для нашої майбутньої співпраці. Буду радий обговорити нові виклики та ідеї!
+![Я з другом](images/photo.jpg)
